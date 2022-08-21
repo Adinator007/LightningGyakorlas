@@ -23,6 +23,8 @@ class CustomImageDataset(Dataset):
 
 
 
+# ez egy komment
+
 class MNISTDataModule(pl.LightningDataModule):
     def __init__(self, data_dir: str = "./"):
         super().__init__()
