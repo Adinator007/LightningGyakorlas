@@ -1,0 +1,5 @@
+my/
+MNIST/
+__pycache__/
+.idea/
+logs/
